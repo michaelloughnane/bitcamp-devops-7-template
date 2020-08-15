@@ -1,2 +1,3 @@
-# bitcamp-devops-7-template
-The template repository for the BitCamp-DevOps-7 course on Learning Lab.
+# Tic Tac Toe Game
+
+Learn GitHub Actions through a fun little game.
